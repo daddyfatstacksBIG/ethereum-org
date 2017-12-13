@@ -51,6 +51,4 @@ git push origin gh-pages
 [travis-url]: https://travis-ci.org/ethereum/ethereum-org
 [dep-image]: https://david-dm.org/ethereum/ethereum-org.svg
 [dep-url]: https://david-dm.org/ethereum/ethereum-org
-# ethereum-org
-# ethereum-org
-# ethereum-org
+
